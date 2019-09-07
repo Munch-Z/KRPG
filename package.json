@@ -1,0 +1,19 @@
+{
+  "name": "krpg",
+  "version": "1.0.0",
+  "description": "KRPG Desktop Game",
+  "main": "server.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munch-Z/KRPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munch-Z/KRPG/issues"
+  },
+  "homepage": "https://github.com/Munch-Z/KRPG#readme"
+}
